@@ -21,6 +21,7 @@
   fo = fetch origin
   d = !git --no-pager diff
   dt  = difftool
+  com = commit -m
   stat = !git --no-pager diff --stat
 
   # Clean merged branches
